@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/caseyhoepner/mentor_match_frontend.svg?branch=master)](https://travis-ci.org/caseyhoepner/mentor_match_frontend)
 
-[See it live here!](https://turing-mentor-match.herokuapp.com/)
+[See it live here!](https://mentor-match-frontend.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  In later Modules, students also contact alumni for short-term mentoring as a part of students' Professional Development curriculum, such as mock interviews and individual coffee meetings. Students can log in to the app to search for mentors in areas of interest and to connect.
 
-In this repo, you will find the code and documentation for the Mentor Match front end, which provides the views for the Mentor Match Project and is deployed at https://turing-mentor-match.herokuapp.com/.
+In this repo, you will find the code and documentation for the Mentor Match front end, which provides the views for the Mentor Match Project and is deployed at https://mentor-match-frontend.herokuapp.com/.
 
 ## Table of Contents
 * [Initial Setup](#initial-setup)
@@ -29,7 +29,7 @@ In this repo, you will find the code and documentation for the Mentor Match fron
 
 ## <a name="initial-setup"></a>Initial Setup
 Run locally:
-1. Clone the repo found here: (https://github.com/caseyhoepner/mentor_match_frontend.git)
+1. Clone the repo found here: (https://github.com/tfielder/mentor-match-frontend)
 2. npm install
 3. npm start
 
